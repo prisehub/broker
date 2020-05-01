@@ -1,0 +1,4 @@
+[submodule "prisehub/l10n-ec"]
+	path = prisehub/l10n-ec
+	url = git@github.com:prisehub/l10n-ec.git
+	branch = 12.0
