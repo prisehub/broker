@@ -3,11 +3,6 @@
 	url = git@github.com:prisehub/l10n-ec.git
 	branch = 12.0
 
-[submodule "prisehub/insurance-brokers"]
-	path = prisehub/insurance-brokers
-	url = git@github.com:prisehub/insurance-brokers.git
-	branch = 12.0
-
 [submodule "OCA/server-tools"]
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
@@ -42,3 +37,6 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 12.0
+[submodule "prisehub/eiabrokers"]
+	path = prisehub/eiabrokers
+	url = git@github.com:esystemsec/insurance-brokers.git
