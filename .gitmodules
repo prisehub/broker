@@ -35,3 +35,6 @@
 [submodule "prisehub/eiabrokers"]
 	path = prisehub/eiabrokers
 	url = git@github.com:esystemsec/insurance-brokers.git
+[submodule "prisehub/esystems"]
+	path = prisehub/esystems
+	url = git@github.com:esystemsec/l10n_ec_broker.git
